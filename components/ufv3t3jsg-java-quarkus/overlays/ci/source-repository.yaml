@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ufv3t3jsg-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ufv3t3jsg-java-quarkus
